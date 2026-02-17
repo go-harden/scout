@@ -1,4 +1,4 @@
-# go-appsec/scout
+<img width="450" height="160" alt="go-appsec/scout" src="https://github.com/user-attachments/assets/5fc8058c-23a3-4bc1-a76c-2206f8510d1a" />
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/go-appsec/scout/blob/main/LICENSE)
 [![Build Status](https://github.com/go-appsec/scout/actions/workflows/tests-main.yml/badge.svg)](https://github.com/go-appsec/scout/actions/workflows/tests-main.yml)
